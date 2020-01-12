@@ -1,0 +1,13 @@
+label {
+  font-weight: bold;
+  color: black;
+}
+
+#alertmsg {
+  color: red;
+  font-weight: bold;
+}
+
+#sytle_div {
+  background-color: lightgrey;
+}
